@@ -50,10 +50,6 @@ Aside from the frameworks, this repository utilizes:
 ---
 
 ## 👋 Get In Touch
-I'm always open to discussing Python architecture, best practices, or code reviews!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://www.linkedin.com/in/pravinsingh-korekar-7b614b225/)
-
+I'm always open to discussing Python architecture, best practices, or code reviews! 
 ---
 > "First, solve the problem. Then, write the code."
